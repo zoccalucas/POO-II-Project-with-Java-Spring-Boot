@@ -1,0 +1,2 @@
+INSERT INTO tb_event (name, description, place, start_date, end_date, start_time, end_time, email_contact) VALUES ('Evento 1', 'Evento de jogos', 'FACENS', '2021-03-25', null, null, null, 'lucas.soares@eduzz.com');
+INSERT INTO tb_event (name, description, place, start_date, end_date, start_time, end_time, email_contact) VALUES ('Evento 2', 'Evento de jogos', 'FACENS', '2021-03-25', null, null, null, 'lucas.zocca@eduzz.com');
